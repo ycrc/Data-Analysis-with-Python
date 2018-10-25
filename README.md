@@ -6,6 +6,8 @@ A short workshop of examples working with
 - pandas
 - matplotlib
 
+by @kayleanelson and @brevans for the Yale Center for Research Computing
+
 ## Setup
 
 To recreate the environment used to generate these notebooks, go get [Anaconda Python](https://www.anaconda.com/download) if you haven't already installed it. Then, clone or download this repo and run:
