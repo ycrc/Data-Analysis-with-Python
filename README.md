@@ -6,7 +6,7 @@ A short workshop of examples working with
 - pandas
 - matplotlib
 
-by @kayleanelson and @brevans for the Yale Center for Research Computing
+by @kayleanelson and @brevans for the [Yale Center for Research Computing](https://research.computing.yale.edu/training/ycrc-bootcamps/ycrc-bootcamp-data-analysis-python)
 
 ## Setup
 
